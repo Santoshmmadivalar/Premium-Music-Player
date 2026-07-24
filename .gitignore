@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Node dependency caches
+node_modules/
+npm-debug.log*
+
+# Diagnostic check files
+scratch/
+test_*.py
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

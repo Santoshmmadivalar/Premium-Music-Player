@@ -1,0 +1,17 @@
+{
+  "name": "codealpha-musicplayer",
+  "version": "1.0.0",
+  "description": "Premium Spotify-Inspired Music Player",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx live-server --port=5500"
+  },
+  "keywords": [
+    "music",
+    "spotify",
+    "player",
+    "vanilla-js"
+  ],
+  "author": "CodeAlpha Intern",
+  "license": "MIT"
+}
