@@ -1,4 +1,4 @@
-# CodeAlpha_MusicPlayer: AuraPlayer
+# MusicPlayer: AuraPlayer
 
 **AuraPlayer** is a responsive, glassmorphic, production-quality Web Music Player inspired by Spotify, Apple Music, and modern design systems (Vercel, Linear, and Framer). Built entirely using semantic HTML5, modern CSS3 variables/effects, and Vanilla ES6+ JavaScript, AuraPlayer is a showcases premium frontend design, smooth 60 FPS motion design, and high-performance Web Audio API analysis.
 
